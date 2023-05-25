@@ -1,0 +1,2 @@
+-- Handle server-side logics and interactions here
+-- For example, handling player interactions, rewards, etc.
